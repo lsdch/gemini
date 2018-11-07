@@ -15,6 +15,11 @@ Gemini is a modern LaTeX [beamerposter] theme.
   your TeX installation, but if not, you can get them from [CTAN])
 * [Raleway] and [Lato], which are both available under Open Font License
 
+```bash
+ apt install texlive texlive-latex-extra lmodern fonts-lmodern texlive-luatex fonts-lato
+```
+
+
 # Usage
 
 1. Copy the files in this repository (or clone the repository)
